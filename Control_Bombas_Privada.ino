@@ -23,7 +23,7 @@ Adafruit_SSD1306 display(OLED_RESET);
 #define LOOP_MS 1000
 #define NUM_AVG 10
 #define TIME_PER_READ 100
-#define MAX_TIME_TO_MOTOR_OFF
+#define MAX_TIME_TO_MOTOR_OFF 900
 
 #define LOGO16_GLCD_HEIGHT 16 
 #define LOGO16_GLCD_WIDTH  16 
